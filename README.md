@@ -76,7 +76,7 @@ SmartAssist AI is developed as a final-year B.Tech Computer Science Engineering 
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Jay A. Suthar**
 
 ## 📄 License
 
